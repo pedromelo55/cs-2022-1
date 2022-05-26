@@ -1,16 +1,16 @@
 ## Tarefa 001 - 25/05/2022 - Questionário - Perfil Estudante
 
-1. Matrícula:
-2. Nome:
+1. Matrícula: 202004776
+2. Nome: Pedro Ivo Santana Melo
 
-3. Qual seu conhecimento/experiência em relação ao desenvolvimento de software?
-4. Quais Linguagens de Programação você domina?
-5. Conhece o paradigma de programação orientado a objetos?
-6. Tem alguma experiência com desenvolvimento de Serviços _Rest_?
-7. Tem conhecimento sobre bancos de dados relacionais?
-8. Tem conhecimento sobre bancos de dados não relacionais (_NoSQL_)?
-9. Tem conhecimento a respeito de controle de versões? Sabe usar corretamente softwares de controle de versão, dentre eles o _github_?
-10. Tem conta no _github_?
+3. Qual seu conhecimento/experiência em relação ao desenvolvimento de software? Minha experiência se limita ao que foi produzido durante os semestres anteriores.
+4. Quais Linguagens de Programação você domina? Não domino nenhuma linguagem, mas tenho experiência básica com C, Java e Python.
+5. Conhece o paradigma de programação orientado a objetos? Sim, estudei programação orientado á objetos durante o meu 3° período.
+6. Tem alguma experiência com desenvolvimento de Serviços _Rest_? Não.
+7. Tem conhecimento sobre bancos de dados relacionais? Tive banco de dados durante o semestre passado, então aprendi o básico mas não o suficiente para passar na matéria.
+8. Tem conhecimento sobre bancos de dados não relacionais (_NoSQL_)? Não.
+9. Tem conhecimento a respeito de controle de versões? Sabe usar corretamente softwares de controle de versão, dentre eles o _github_? Tenho conhecimento a respeito de controle de versões. Sou iniciante no uso do github.
+10. Tem conta no _github_? Sim.
 
 
   9.1.  Se sim:
@@ -21,14 +21,5 @@
       *  Crie uma conta e informe o nome do seu usuário;
       *  Crie um repositório com o nome **cs-2022-1** e compartilhe com o professor.Meu usuário no _github_ é **gilmarioArantes**;
 
-10. Você possui algum impedimento para trabalhar em equipe?
-11. Você possui equipamento adequado para a implementação das atividades relacionadas à disciplina? Atividades complementares, extra-classe.
-
-INSTRUÇÕES:
-1. Este é um arquivo no formato _markdown_ (.md), caso você precise de orientações a respeito da forma como editar este tipo de arquivo, acesso este [link](https://guides.github.com/features/mastering-markdown/);
-2. No seu repositório cs-2022-1, crie a pasta aula01;
-3. Adicione este arquivo nesta nova pasta;
-4. Responda ao questionário constante do arquivo;
-5. Remova esta Seção de INSTRUÇÕES, do arquivo respondido.
-6. Faça o _Commit_ do arquivo atualizado com suas respostas.
-7. Isso deve ser feito até as 23h59min do dia 28/07/2021.
+10. Você possui algum impedimento para trabalhar em equipe? Não.
+11. Você possui equipamento adequado para a implementação das atividades relacionadas à disciplina? Atividades complementares, extra-classe? Sim.
