@@ -10,11 +10,11 @@ Responda as questões abaixo (exercite os comandos do git correspondentes). Lemb
   c. git help merge ~ Devolve informações sobre o comando merge, que permite unir dois ou mais históricos de desenvolvimento.
   d. git init ~ Gera um repositório git vazio ou reinicializa um já existente.
   e. git add --all ~ adicionar todos os arquivos do diretório para o git.
-  f. git add -u ~ 
-  g. git config -l ~
-  h. git mv a.txt b.txt ~
-  i. git reset --hard ~
-  j. git log -27 ~
+  f. git add -u ~ atualiza ou remove todos os arquivos rastreados.
+  g. git config -l ~ lista todas as variáveis definidas no arquivo de configuração e seus valores.
+  h. git mv a.txt b.txt ~ renomeia o arquivo de texto "a" para "b".
+  i. git reset --hard ~ Descarta as alterações na área de stage e também reverte todas as alterações no diretório de working para o commit informado no comando.
+  j. git log -27 ~ Exibe os registros log dos últimos 27 commits.
 3. O fluxo “clássico” de interação com o Git é algo como “alterar um ou mais arquivos”, “acrescentar essas mudanças para serem contemplados no próximo commit” e, finalmente, executar um “commit”. Quais os comandos necessários para realizar os dois últimos “passos” desse fluxo?
 4. Qual o comando deve ser executado para identificar o que foi alterado desde o último “commit”?
 5. Em um dado repositório, arquivos simplesmente copiados para lá, ou seja, _untracked_, podem ser exibidos/identificados com que comando?
