@@ -88,7 +88,17 @@ Responda as questões abaixo (exercite os comandos do git correspondentes). Lemb
 21. arquivo .gitignore  
 22. Para ignorar os arquivos com uma extensão específica, é necessário incluir essa regra no arquivo .gitignore. Nesse caso, precisa incluir a regra *.class dentro do arquivo .gitignore  
 23. -    
-24.  
+24. Listar os autores, os e-mails e os números de commits.  
+25. Mostrar o URL do repositório remoto atual  
+26. Git tag   
+27. Git tag -l 2.0  
+28. Cria um tag (3.4-gold) com a mensagem de tagging "minha versão ouro"  
+29. Mostra todos os dados do tag, incluindo a mensagem  
+30. Atualiza o repositório remoto com o repositório local utilizando a tag 3.4-gold  
+31. Fazer alterações no último commits  
+32. Impede as alterações feitas no arquivos de serem committed.  
+33. Não terá efeito, visto que as alterações no arquivo já foram committed.  
+34. O git checkout --a.txt descarta as alterações locais feitas nesse arquivo e o Git reset HEAD faz o HEAD apontar para o arquivo a.txt.  
 
 
 
