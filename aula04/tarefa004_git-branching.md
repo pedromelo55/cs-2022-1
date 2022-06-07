@@ -14,7 +14,6 @@
 1. Master  
 2. Cria um branch com o nome informado no comando  
 3. Git checkout -b <nome do branch> <commit>  
-4. 
 5. Git checkout experimento2  
 6. Mostra os dois branches, marcando o branch b1 com um asterisco  
 7. Cria um novo branch  
