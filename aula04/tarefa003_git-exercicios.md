@@ -53,7 +53,7 @@ Responda as questões abaixo (exercite os comandos do git correspondentes). Lemb
 35. Veja como interpretar o resultado de git diff [aqui](https://medium.com/therobinkim/how-to-read-a-git-diff-6c87a9dc47c5). Execute, em um dos seus projetos, o comando **git diff HEAD~1 HEAD** e certifique-se de que entende o resultado apresentado.
 
 **RESPOSTAS**
-1. git --version (---)
+1. git --version ---------------------------------
 2. 
   a. Devolve informações sobre o Git
   b. Devolve informações sobre o comando checkout, que permite trocar entre branches ou restaurar os arquivos da árvore de trabalho.
