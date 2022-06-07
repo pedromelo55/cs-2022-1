@@ -55,40 +55,40 @@ Responda as questões abaixo (exercite os comandos do git correspondentes). Lemb
 **RESPOSTAS**
 1. git --version ---------------------------------
 2. 
-  a. Devolve informações sobre o Git
-  b. Devolve informações sobre o comando checkout, que permite trocar entre branches ou restaurar os arquivos da árvore de trabalho.
-  c. Devolve informações sobre o comando merge, que permite unir dois ou mais históricos de desenvolvimento
-  d. Gera um repositório git vazio ou reinicializa um já existente
-  e. Adiciona todos os arquivos no stage.
-  f. Atualiza ou remove arquivos que ja foram adicionadas, esse comando não adiciona nenhum arquivo novo.
-  g. Lista todas as variáveis definidas no arquivo de configuração e seus valores
-  h. Renomeia o arquivo de texto "a" para "b"
-  i. Descarta as alterações na área de stage e também reverte todas as alterações no diretório de working para o commit informado no comando
-  j. Exibe os registros log dos últimos 27 commit
-3. Para o primeiro passo é necessário do comando "git add" e para o segundo, é necessário o comando "git commit"
-4. git log ou git diff
-5. git ls-files --others --exclude-standard ou git status
-6. git commit -m "insere mensagem aqui"
-7. git reset teste.txt
-8. Para ignorar um diretório, basta criar um arquivo .gitignore, que é um arquivo texto, e nela adicionar o nome do diretório que deseja ignorar
-9. Quando um repositório local é removido localmente, ele continua existindo no repositório remoto. Para desfazer esse incidente, é necessário realizar um git reset, recuperando o repositório do último commit.
-10. git clone + o URL do repositório remoto.
-11. git log --pretty=oneline
-12. Informações de configuração são guardados no arquivo .gitconfig
-13. git-init
-14. O diretório secreto criado pelo git ao inicializar um repositório chama .git
-15. git add -u
-16. SHA1 significa secure hash algorithm, que é um tipo de criptografia. Isso permite a proteção de mensagens importantes através da codificação delas por dispersão.
-17. Uma revisão é usada para apontar para o id/ hash de SHA1 de um commit
-18. Não, pois o comando git add -u apenas atualiza arquivos previamente adicionados
+  a. Devolve informações sobre o Git ------------
+  b. Devolve informações sobre o comando checkout, que permite trocar entre branches ou restaurar os arquivos da árvore de trabalho. --------
+  c. Devolve informações sobre o comando merge, que permite unir dois ou mais históricos de desenvolvimento --------------- 
+  d. Gera um repositório git vazio ou reinicializa um já existente ---------
+  e. Adiciona todos os arquivos no stage. ----------------
+  f. Atualiza ou remove arquivos que ja foram adicionadas, esse comando não adiciona nenhum arquivo novo. --------
+  g. Lista todas as variáveis definidas no arquivo de configuração e seus valores ------------
+  h. Renomeia o arquivo de texto "a" para "b" ------------------
+  i. Descarta as alterações na área de stage e também reverte todas as alterações no diretório de working para o commit informado no comando --------------
+  j. Exibe os registros log dos últimos 27 commit ---------------
+3. Para o primeiro passo é necessário do comando "git add" e para o segundo, é necessário o comando "git commit" -------------
+4. git log ou git diff --------------------
+5. git ls-files --others --exclude-standard ou git status --------------
+6. git commit -m "insere mensagem aqui" ------------------
+7. git reset teste.txt ---------------
+8. Para ignorar um diretório, basta criar um arquivo .gitignore, que é um arquivo texto, e nela adicionar o nome do diretório que deseja ignorar. -----------
+9. Quando um repositório local é removido localmente, ele continua existindo no repositório remoto. Para desfazer esse incidente, é necessário realizar um git reset, recuperando o repositório do último commit. ---------------
+10. git clone + o URL do repositório remoto. --------------- 
+11. git log --pretty=oneline -------------
+12. Informações de configuração são guardados no arquivo .gitconfig --------------
+13. git-init ------------
+14. O diretório secreto criado pelo git ao inicializar um repositório chama .git -------------
+15. git add -u ------------------
+16. SHA1 significa secure hash algorithm, que é um tipo de criptografia. Isso permite a proteção de mensagens importantes através da codificação delas por dispersão. -
+17. Uma revisão é usada para apontar para o id/ hash de SHA1 de um commit ---------
+18. Não, pois o comando git add -u apenas atualiza arquivos previamente adicionados ------------ 
 19. 
-    **git reset --soft HEAD~1** ~ Move apenas o ponteiro HEAD para outro commit e não alterar a área de stage ou o diretório de working. Os arquivos que passaram por modificação ficam como mudanças a serem comitadas.
-    **git reset --hard** ~ Descarta as alterações na área de stage e reverte todas as alterações no diretório de working para o estado do commit especificado ao                                  utilizar o comando
-20. git clean -f e git clean -d
-21. arquivo .gitignore
-22. Para ignorar os arquivos com uma extensão específica, é necessário incluir essa regra no arquivo .gitignore. Nesse caso, precisa incluir a regra *.class dentro do arquivo .gitignore
-23. -
-24.  
+    **git reset --soft HEAD~1** ~ Move apenas o ponteiro HEAD para outro commit e não alterar a área de stage ou o diretório de working. Os arquivos que passaram por modificação ficam como mudanças a serem comitadas. -------
+    **git reset --hard** ~ Descarta as alterações na área de stage e reverte todas as alterações no diretório de working para o estado do commit especificado ao                                  utilizar o comando ---------
+20. git clean -f e git clean -d ----------
+21. arquivo .gitignore ---------
+22. Para ignorar os arquivos com uma extensão específica, é necessário incluir essa regra no arquivo .gitignore. Nesse caso, precisa incluir a regra *.class dentro do arquivo .gitignore ---------
+23. -  ----------------- 
+24.  ------
 
 
 
