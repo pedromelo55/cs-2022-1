@@ -15,8 +15,8 @@ Responda as questões abaixo (exercite os comandos do git correspondentes). Lemb
   h. git mv a.txt b.txt ~ renomeia o arquivo de texto "a" para "b".
   i. git reset --hard ~ Descarta as alterações na área de stage e também reverte todas as alterações no diretório de working para o commit informado no comando.
   j. git log -27 ~ Exibe os registros log dos últimos 27 commits.
-3. O fluxo “clássico” de interação com o Git é algo como “alterar um ou mais arquivos”, “acrescentar essas mudanças para serem contemplados no próximo commit” e, finalmente, executar um “commit”. Quais os comandos necessários para realizar os dois últimos “passos” desse fluxo?
-4. Qual o comando deve ser executado para identificar o que foi alterado desde o último “commit”?
+3. O fluxo “clássico” de interação com o Git é algo como “alterar um ou mais arquivos”, “acrescentar essas mudanças para serem contemplados no próximo commit” e, finalmente, executar um “commit”. Quais os comandos necessários para realizar os dois últimos “passos” desse fluxo? ~ Para o primeiro passo é necessário do comando git add e para o segundo, é necessário o comando git commit -m "mensagem de commit"
+4. Qual o comando deve ser executado para identificar o que foi alterado desde o último “commit”? ~ git diff
 5. Em um dado repositório, arquivos simplesmente copiados para lá, ou seja, _untracked_, podem ser exibidos/identificados com que comando?
 6. Qual o comando para efetuar um _commit_?
 7. Qual o comando que devemos empregar para descartar mudanças ocorridas no arquivo teste.txt, por exemplo?
