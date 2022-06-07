@@ -55,16 +55,16 @@ Responda as questões abaixo (exercite os comandos do git correspondentes). Lemb
 **RESPOSTAS**
 1. git --version  
 2.  
-  a. Devolve informações sobre o Git  
-  b. Devolve informações sobre o comando checkout, que permite trocar entre branches ou restaurar os arquivos da árvore de trabalho.  
-  c. Devolve informações sobre o comando merge, que permite unir dois ou mais históricos de desenvolvimento  
-  d. Gera um repositório git vazio ou reinicializa um já existente  
-  e. Adiciona todos os arquivos no stage.  
-  f. Atualiza ou remove arquivos que ja foram adicionadas, esse comando não adiciona nenhum arquivo novo.  
-  g. Lista todas as variáveis definidas no arquivo de configuração e seus valores  
-  h. Renomeia o arquivo de texto "a" para "b"  
-  i. Descarta as alterações na área de stage e também reverte todas as alterações no diretório de working para o commit informado no comando  
-  j. Exibe os registros log dos últimos 27 commit  
+    a. Devolve informações sobre o Git    
+    b. Devolve informações sobre o comando checkout, que permite trocar entre branches ou restaurar os arquivos da árvore de trabalho.  
+    c. Devolve informações sobre o comando merge, que permite unir dois ou mais históricos de desenvolvimento  
+    d. Gera um repositório git vazio ou reinicializa um já existente  
+    e. Adiciona todos os arquivos no stage.  
+    f. Atualiza ou remove arquivos que ja foram adicionadas, esse comando não adiciona nenhum arquivo novo.  
+    g. Lista todas as variáveis definidas no arquivo de configuração e seus valores  
+    h. Renomeia o arquivo de texto "a" para "b"  
+    i. Descarta as alterações na área de stage e também reverte todas as alterações no diretório de working para o commit informado no comando  
+    j. Exibe os registros log dos últimos 27 commit  
 3. Para o primeiro passo é necessário do comando "git add" e para o segundo, é necessário o comando "git commit"  
 4. git log ou git diff  
 5. git ls-files --others --exclude-standard ou git status  
