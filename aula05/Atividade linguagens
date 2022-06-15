@@ -1,1 +1,57 @@
+**PHP**
+
+  Desenvolvimento e motivação:
+	  Foi criada no ano de 1994 pelo programador canadiano-dinamarquês, Rasmus Lerdorf. Ele foi inspirado principalmente pela linguagem C e, também, as linguagens Perl e Java. O motivo pela sua criação foi para que o Rasmus pudesse atualizar seu currículo, sem a necessidade de alterar o código-fonte e republicar a página. No início, sua sigla significava Personal Home Page, mas com a entrada de outros desenvolvedores na equipe, passou a ser chamada de PHP: Hypertext Processor.
+
+  Presença no mercado e aplicações:
+	  Apesar de existirem muitos que falam que a linguagem PHP está defasada e irrelevante, a PHP continua sendo uma das linguagens mais utilizadas atualmente. O programador PHP tem recebido cada vez mais reconhecimento e valorização. Essa linguagem é voltada para o desenvolvimento web e a criação de sites, melhorando a conexão entre a interface e os servidores.
+
+  Palavras reservadas:
+    São as palavras com significado especial no PHP. Algumas remetem funções, outras remetem constantes. Algumas dessas palavras incluem: abstract, and, break, case, do, esse, elseif, for, if, etc.
+
+  Variáveis:
+    A sintaxe para declarar variáveis no PHP é bem simples, basta usar o sinal "$" no início e colocar o nome da variável em seguida. São case sensitive, então $Tempo é diferente de $tempo. Nunca deve iniciar com um número ou caractere especial.
+
+  Tipos de dados:
+    Existem quatro tipos de dados básicos para os dados escalares, sendo eles: Integer, Float, string e Boolean. Dois tipos de dados compostos: Array e Object e dois tipos tipos de dados especiais: resource e NULL.
+
+  Estruturas de controle:
+    Existem estruturas de condição e as de repetição. As de condição são: If, else, else if e switch. As de repetição são: white, do white, for e foreach.
+
+  Funções:
+    A  função na PHP começa com a palavra function, seguida de espaço, depois o nome da função, depois abre de parênteses e se a função tiver parâmetros, defini-se o nome da variável que será parâmetro e depois fecha os parênteses. O código da função precisa estar entre chaves.
+
+**Ruby**
+    Desenvolvimento e Motivação:
+    Presença no Mercado e Aplicações
+    Sintaxe e semântica
+    Palavras reservadas
+    Variáveis
+    Tipos de dados
+    Expressões e atribuições
+    Estruturas de controle
+    Funções
+
+**Javascript**
+
+  Desenvolvimento e Motivação:
+    Foi criada na empresa Netscape Communications por Brandon Eich em 1995. Javascript foi desenvolvido como um SCRIPTING LANGUAGE para a empresa usar com seu próprio navegador, Netscape Navigator. No início, chamava-se Livescript até que a empresa decidiu chamá-la de Javascript para que fosse reconhecido como um companheiro da linguagem Java, produto de uma empresa parceira. Apesar de ter alguns elementos sintáticos em comum com a linguagem Java, Javascript não tem nenhuma ligação com ela.
+
+  Presença no Mercado e Aplicações:
+    Devido à sua flexibilidade e adaptabilidade a ambientes variados, Javascript é uma das linguagens mais utilizadas, estando praticamente em todo lugar. Ela é utilizada na back-end e na front end. Essa versatilidade permitiu sua popularidade no mercado, no ano de 2021, havia 12475 vagas para desenvolvedores Javascript no LinkedIn. É uma linguagem de uso geral, com foco no desenvolvimento web e de software. Ela permite adicionar comportamento interativo nas páginas da web, criar páginas na web e apps, construir servidores web e desenvolver aplicativos e o desenvolvimento de jogos.
+
+**Python**
+    Desenvolvimento e motivação:
+      Em 1989, o ___ Guido van Rossum criou a linguagem de programação Python no Centro de Matemática e Tecnologia da Informação na Holanda. Foi feita como sucessor da linguagem de programação ABC, capaz de lidar com exceções e interagir com o sistema operacional Amoeba.
+
+      O nome da língua vem do gosto de seu criador pelos humoristas britânicos Monty Python. Van Rossum é o principal autor de Python, e seu papel central contínuo na decisão da direção de Python é reconhecido, referindo-se a ele como Ditador de Vida Benevolente (em inglês: Benevolent Dictator for Life, BDFL).
+
+      Python é uma linguagem de programação interpretada cuja filosofia enfatiza uma sintaxe favorecendo um código mais legível, além de ser “free”.
+
+      Presença no mercado e aplicações:
+
+**C#**
+
+
+**Ruby**
 
