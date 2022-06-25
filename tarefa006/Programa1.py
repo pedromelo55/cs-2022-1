@@ -1,0 +1,8 @@
+print("Insere quantos anos, meses e dias você tem")
+print("anos: ")
+anos = int(input())
+print("meses: ")
+meses = int(input())
+print("dias: ")
+dias = int(input())
+print("A sua idade expressa em dias é: " + str((anos*365) + (meses*30) + dias))
