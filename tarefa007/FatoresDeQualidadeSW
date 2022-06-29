@@ -1,0 +1,11 @@
+A qualidade de software é regrada por uma variedade de normas, que quando seguidas, garantem a boa qualidade de um software. Uma dessas práticas 
+é a escolha bem pensada da linguagem de programação, visto que a memória, o processamento, o paradigma de linguagem, entre outros interferem no 
+desempenho do produto, então é necessário ter o fim bem definido e pensado para então pensar nos meios, nesse caso a linguagem que será usada. 
+Outro fator é a boa documentação do software, que permite o fácil entendimento para que o software possa ser implantado ou até mesmo modificado corretamente.
+Na mesma linha de raciocínio, a documentação do código-fonte também tem um papel importante na qualidade de um software, simplificando o trabalho que um
+desenvolvedor terá de entender o código. Outro ponto é a legibilidade de um código, quanto melhor escrito é um código, mais fácil ele é de ser entendido pela
+a equipe, facilitando esse esforço em conjunto. Outros fatores mais óbvios para a boa qualidade de um software são: a habilidade de reaproveitar outros códigos,
+o processo bem feito de testes de software e a garantia da segurança de um código também são cruciais para que um software seja considerado um produto de boa qualidade.  
+  Creio que já possuía uma noção boa de todos esses fatores, mas a leitura realmente me fez valorizar mais a boa documentação do software e do código.
+É uma prática necessária para qualquer pessoa na área de software que, infelizmente, não é prioridade para muitos, especialmente aqueles que estão entrando agora para
+a área e esse artigo com certeza me fez repensar minhas práticas.
